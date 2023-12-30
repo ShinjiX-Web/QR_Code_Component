@@ -7,27 +7,24 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
+
   - This is QR Code simple challenge from Front End Project
    
-### Screenshot
+### Desktop View
 
-![](./screenshot.jpg)
+![](./design/QR_Code.png)
+
+### Mobile View
+
+![](./design/QR_Code_Mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Solution Link](https://your-solution-url.com)
+- Live Site URL: [Live Site](https://your-live-site-url.com)
 
 ### Built with
 
