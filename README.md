@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution Link](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution Link](https://github.com/ShinjiX-Web/QR_Code_Component)
+- Live Site URL: [Live Site](https://shinjix-web.github.io/QR_Code_Component/)
 
 ### Built with
 
